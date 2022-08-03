@@ -19,6 +19,7 @@
 </div>
 
 ## What is Husy?
+Husy was created with the intention of offering a wide variety of cheats in an updated way to the entire community, with updates that can happen even daily thanks to a wide range of people who share the updates of the most famous cheats that are inserted into our system keeping our system up to date, but make no mistake, we need your help to stay active! Want to help? [Contact us](#).
 
 
 
@@ -109,6 +110,6 @@ Million is being used at companies like [''''](#) and open source work like ['''
 
 ## License
 
-Million is [MIT-licensed](LICENSE) open-source software.
+Husy is [MIT-licensed](LICENSE) open-source software.
 
-![View count](#)
+
