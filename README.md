@@ -67,7 +67,7 @@ npm install husy
 
 ## Codebase
 
-This repo is a "mono-repo" with modules. Million ships as one NPM package, but has first class modules for more complex, but important extensions. Each module has its own folder in the `/packages` directory.
+This repo is a "mono-repo" with modules. Husy ships as one NPM package, but has first class modules for more complex, but important extensions. Each module has its own folder in the `/packages` directory.
 
 | Module                                                                                               | Description                                                                                                                                                                                   |
 | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
